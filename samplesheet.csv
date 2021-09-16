@@ -1,0 +1,3 @@
+sample_name,infected,IFN,IFN_antagonism,fastq_file
+BR_1,True,False,True,tmp_ifn_YESantagonism.fasta
+BR_2,True,True,False,tmp_ifn_NOantagonism.fasta
