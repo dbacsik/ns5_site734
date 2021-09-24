@@ -7,3 +7,11 @@ Mut_Rnd2_mCherry_neg,True,False,R1,/shared/ngs/illumina/bloom_lab/210917_M04866_
 Mut_Rnd2_mCherry_pos,True,True,R1,/shared/ngs/illumina/bloom_lab/210917_M04866_0509_000000000-JW58W/Data/Intensities/BaseCalls/Mut-Rnd2-mCherry-pos_S6_L001_R1_001.fastq.gz
 WT_Plasmid,None,None,R1,/shared/ngs/illumina/bloom_lab/210917_M04866_0509_000000000-JW58W/Data/Intensities/BaseCalls/WT-Plasmid_S7_L001_R1_001.fastq.gz
 Mut_Plasmid,None,None,R1,/shared/ngs/illumina/bloom_lab/210917_M04866_0509_000000000-JW58W/Data/Intensities/BaseCalls/Mut-Plasmid_S8_L001_R1_001.fastq.gz
+WT_NS5_Sample,True,None,R2,/shared/ngs/illumina/bloom_lab/210917_M04866_0509_000000000-JW58W/Data/Intensities/BaseCalls/WT-NS5-Sample_S1_L001_R2_001.fastq.gz
+Mut_NS5_Sample,True,None,R2,/shared/ngs/illumina/bloom_lab/210917_M04866_0509_000000000-JW58W/Data/Intensities/BaseCalls/Mut-NS5-Sample_S2_L001_R2_001.fastq.gz
+Mut_Rnd1_mCherry_neg,True,False,R2,/shared/ngs/illumina/bloom_lab/210917_M04866_0509_000000000-JW58W/Data/Intensities/BaseCalls/Mut-Rnd1-mCherry-neg_S3_L001_R2_001.fastq.gz
+Mut_Rnd1_mCherry_pos,True,True,R2,/shared/ngs/illumina/bloom_lab/210917_M04866_0509_000000000-JW58W/Data/Intensities/BaseCalls/Mut-Rnd1-mCherry-pos_S4_L001_R2_001.fastq.gz
+Mut_Rnd2_mCherry_neg,True,False,R2,/shared/ngs/illumina/bloom_lab/210917_M04866_0509_000000000-JW58W/Data/Intensities/BaseCalls/Mut-Rnd2-mCherry-neg_S5_L001_R2_001.fastq.gz
+Mut_Rnd2_mCherry_pos,True,True,R2,/shared/ngs/illumina/bloom_lab/210917_M04866_0509_000000000-JW58W/Data/Intensities/BaseCalls/Mut-Rnd2-mCherry-pos_S6_L001_R2_001.fastq.gz
+WT_Plasmid,None,None,R2,/shared/ngs/illumina/bloom_lab/210917_M04866_0509_000000000-JW58W/Data/Intensities/BaseCalls/WT-Plasmid_S7_L001_R2_001.fastq.gz
+Mut_Plasmid,None,None,R2,/shared/ngs/illumina/bloom_lab/210917_M04866_0509_000000000-JW58W/Data/Intensities/BaseCalls/Mut-Plasmid_S8_L001_R2_001.fastq.gz
